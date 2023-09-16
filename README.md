@@ -1,5 +1,7 @@
 # ZMLCabinet
 
+Скоро...
+
 ## Полезные ссылки
 
 [💬 Discord](https://dsc.gg/zmine)
